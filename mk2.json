@@ -1,4 +1,10 @@
 {
  "version": 1,
- "recipes": {}
+ "recipes": {
+  "c-test": {
+   "id": "c-test",
+   "title": "Test řízek s bramborovým salátem ½",
+   "updatedAt": 1795470661100
+  }
+ }
 }
